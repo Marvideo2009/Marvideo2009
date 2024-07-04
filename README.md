@@ -39,6 +39,9 @@
 <a href="mailto: marvideomc.pro@gmail.com">
  <img src="https://img.shields.io/badge/-Marvideo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marvideomc.pro@gmail.com"/>
 </a>
+ <a href="https://discordapp.com/users/847155562016931922">
+ <img src="https://img.shields.io/badge/Discord-white?logo=discord&link=https://discordapp.com/users/847155562016931922"/>
+</a>
 </p>
 
 
