@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Marvideo2009/Marvideo2009/blob/main/images/newbg(1).png" />
+<!-- <img src="https://github.com/Marvideo2009/Marvideo2009/blob/main/images/newbg(1).png" /> -->
 
 <p align="center">
  
