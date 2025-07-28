@@ -41,6 +41,17 @@
 ## 📊 Stats GitHub
 
 <p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Marvideo2009&show_icons=true&theme=tokyonight&locale=fr"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Marvideo2009&show_icons=true&theme=default&locale=fr"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Marvideo2009&show_icons=true&theme=tokyonight&locale=fr" />
+  </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=Marvideo2009&show_icons=true&theme=tokyonight&locale=fr" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvideo2009&layout=compact&theme=tokyonight&locale=fr" />
