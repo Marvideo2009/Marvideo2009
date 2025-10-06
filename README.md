@@ -26,6 +26,7 @@
 
 ## 📌 Projets récents
 
+- 🔗 **<a href="https://plinkk.fr">Plinkk</a>** : Linktree like ethique, opensource et Français.
 - 🧠 **<a href="https://github.com/BreezeApps/Yapuka">Yapuka</a>** : Application de gestion de listes et de taches.
 
 ---
