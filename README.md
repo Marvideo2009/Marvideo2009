@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c’est Marcel 👋</h1>
+<h1 align="center">Salut, moi c’est Marvideo 👋</h1>
 
 <p align="center">
   🎓 Lycéen passionné de programmation & d'innovation
